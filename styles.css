@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+/* Body Styling */
+body {
+  background-color: yellow;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+  padding: 40px;
+}
+
+/* Headings */
+#f1 {
+  color: darkorchid;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+#f2 {
+  color: crimson;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+/* Paragraph Styling */
+p {
+  font-size: 16px;
+  color: #333;
+  margin: 10px auto 30px;
+  max-width: 600px;
+  line-height: 1.6;
+}
+
+/* Div Styling */
+div {
+  border: 2px dashed #aaa;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fff8dc;
+ 
+}
